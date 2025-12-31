@@ -1,0 +1,6 @@
+# Test artifacts
+*.log
+.DS_Store
+
+# Cache files
+/tmp/
